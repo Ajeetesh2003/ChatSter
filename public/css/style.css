@@ -17,7 +17,8 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
-	background: var(--light-color);
+	background: linear-gradient(45deg,  rgb(238, 241, 28), rgb(110, 176, 242) );
+	background-attachment: fixed;
 	margin: 20px;
 }
 
